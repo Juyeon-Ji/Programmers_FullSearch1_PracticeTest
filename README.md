@@ -1,3 +1,3 @@
-# typescript-ecxlpo
+# programmers-fullsearch1-practicetest
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-ecxlpo)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/programmers-fullsearch1-practicetest)
